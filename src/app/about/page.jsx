@@ -41,7 +41,7 @@ const AboutPage = () => {
             <h1 className="font-bold text-2xl">BIOGRAPHY</h1>
             {/* BIOGRAPHY DESC */}
             <p className="text-lg">
-            Hi, I'm Abhishek Kuashal, a passionate and dedicated junior web developer with a strong foundation in front-end and back-end technologies. I thrive on creating clean, efficient, and user-friendly web applications. My goal is to continuously learn and grow in the field of web development while contributing to impactful projects.
+            Hi, I am Abhishek Kaushal, a passionate and dedicated junior web developer with a strong foundation in front-end and back-end technologies. I thrive on creating clean, efficient, and user-friendly web applications. My goal is to continuously learn and grow in the field of web development while contributing to impactful projects.
             </p>
             {/* BIOGRAPHY SCROLL SVG */}
             <motion.svg
