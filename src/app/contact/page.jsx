@@ -29,6 +29,8 @@ const ContactPage = () => {
         },
         () => {
           setError(true);
+          console.error('EmailJS error:', error);
+          alert(`Failed to send email: ${error.text || error}`);
         }
       );
   };
