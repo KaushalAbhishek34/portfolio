@@ -75,7 +75,7 @@ const ContactPage = () => {
             className="bg-transparent border-b-2 border-b-black outline-none resize-none"
             name="user_message"
           />
-          <span>My mail address is:</span>
+          <span>My MAIL ADDRESS is:</span>
           <input
             name="user_email"
             type="text"
